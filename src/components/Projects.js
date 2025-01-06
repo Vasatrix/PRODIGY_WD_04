@@ -13,7 +13,7 @@ const Projects = () => {
         <li> My Portfolio </li>
         <li> Weather App </li>
         </ul>
-          <a href="https://github.com/Vasatrix?tab=repositories" target="_blank" rel="noopener noreferrer">Projects Link</a>
+          <a href="Project_link" target="_blank" rel="noopener noreferrer">Projects Link</a>
     </section>
   );
 }; 
