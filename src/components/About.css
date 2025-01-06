@@ -1,0 +1,22 @@
+.about {
+    padding: 40px;
+    background: #fff;
+  }
+  
+  .about h2 {
+    text-align: center;
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+
+  .about h3 {
+    text-align: left;
+    font-size: 1.5em;
+    margin-bottom: 20px;
+  }
+  
+  .about p {
+    font-size: 1.1em;
+    line-height: 1.6;
+  }
+  
